@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 root = Tk()
 def author():
-    messagebox.showinfo("Author","Md Farmanul Haque \n Corporate Trainer \n Aspirevision Tech Education Pvt Ltd \n 19th March 2021")
+    messagebox.showinfo("Author","SK Faizan Nasir")
 def button_click(number):
     current = display.get()
     display.delete(0,END)
